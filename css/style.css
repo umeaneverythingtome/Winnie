@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:"Microsoft YaHei","思源黑体 CN","Noto Sans CJK SC","Source Han Sans CN" !important;
+	font-size:16px;
+	font-style:normal;
+	padding:0px;
+	margin:0px;
+}
+
+p{
+	font-size: 18px;
+	align-content: center;
+	text-align:center;
+	line-height:2;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	width:auto;
+	margin:0 auto;
+	padding:30px 220px;
+	text-indent: 2em;
+}
+
+.pic{
+	border:none;
+	align-content: center;
+	height:50%;
+	width:50%;
+	margin:0 200px;
+	padding:0 220px;
+}
+
+.pic1{
+	border:none;
+	align-content: center;
+	height:auto;
+	width:500px;
+	margin:0 200px;
+	padding:0 340px;
+}
+
+.pic2{
+	border:none;
+	align-content: center;
+	height:350px;
+	width:800px;
+	margin:0 200px;
+	padding:0 230px;
+}
+
+h2{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align:left;
+	font-size:28px;
+	padding:15px 200px;
+	letter-spacing:5px;
+	color:#418FAA;
+}
+
+.header{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size:27px;
+	color:#454545;
+	letter-spacing:2px;
+	text-align:center;
+	background-color:#E0F8FE;
+	width:auto;
+	height:60px;
+	margin:auto;
+	padding:15px 0 2px 0;
+}
+
+.menubox{
+	clear:both;
+	background-color:#9EBBB1;
+	margin-top:10px;
+	min-width:1100px;
+}
+ul.menu{
+	display:block;
+	width:auto;
+	text-align:center;
+}
+ul.menu li{
+	display:inline-block;
+	line-height:40px;
+	margin-left:25px;
+	margin-right:25px;
+	font-size:18px;
+}
+ul.menu li a {
+	color:#fff; 
+	text-decoration:none;
+}
+ul.menu li a:hover {
+	color:#A6ABDA;
+}
+
+.bannner {
+	width:1000px;
+	border:none;
+	margin:0 auto;
+	overflow:hidden;
+}
+.bannner img {
+	float:center;
+	width:1000px;
+	height:600px;
+	margin:0 auto;
+}
+
+footer{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size:15px;
+	color:#252424;
+	background-color:#E0F5FB;
+	letter-spacing:1px;
+	line-height:1.5;
+	text-align:center;
+	width:inherit;
+	height:240px;
+	margin-top:240px;
+	padding-top:40px;
+}
